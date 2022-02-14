@@ -2,8 +2,8 @@
 ────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 limitawal = "50" //LIMIT AWAL
 namabot = "Jembot-Js" //NAMA BOT
-namaowner = "Ramdani Official🎖️" //NAMA OWNER
-nomerowner = '6289512545999' //NOMER OWNER
+namaowner = "Alif Ananta🎖️" //NAMA OWNER
+nomerowner = '6285890617231' //NOMER OWNER
 gamewaktu = "300" //3 = 3 detik || 30 = 30 detik .Dst
 numbernye = "0" //GAUSAH DI UBAH JUGA GPP
 gcounttprem = "35" //LIMIT GAME AWAL UNTUK USER PREMIUM
@@ -12,13 +12,13 @@ f = "⬡"
 prefa = "."
 
 //🇮 🇸 🇮  🇦 🇵 🇮 🇰 🇪 🇾  🇲 🇺  🇩 🇮 🇸 🇮 🇳 🇮 
-const lolkey = 'isi' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PAKE TANDA ( ' ) CONTOH = 'APIKEYNYA'
+const lolkey = 'd08f6ffd9e5da0025aa3c644' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PAKE TANDA ( ' ) CONTOH = 'APIKEYNYA'
 
 //DONASI 
 //NOTE : JIKA GA PUNYA, ISI JADI -
-gopay = '089512545999'
-dana = '089512545999'
-ovo = '089512545999'
+gopay = '085890617231'
+dana = '085890617231'
+ovo = '085890617231'
 shopeepay = '-'
 paypal = '-'
 saweria = '-'
